@@ -1,1 +1,0 @@
-print("The Square root of", num , "is", result)
